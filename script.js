@@ -4,9 +4,9 @@ const gifStages = [
     "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZlbWtjdjJpNHFnN3RjMGE2NTZmbzU0cjY4Nm13ODg3ODUycjQ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/asbP3eIpTXlxS/giphy.gif",             // 2 pleading
     "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG04d3F4MXZ0NjU3Z3IzY3hzZWttaG9tdHoxZXlqc2xvNGRudjE2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQ0GvkpZwYcgM/giphy.gif",             // 3 sad
     "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW54ZDMyenA5NDlzdzZ1aHM3eXUwOXVqdXA4anhvdmY0NnZpN3pwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5JIak2EFfemQqQaJWK/giphy.gif",       // 4 sadder
-    "https://tenor.com/nGNaTVZwd1T.gif",             // 5 devastated
-    "https://tenor.com/sXUN.gif",               // 6 very devastated
-    "https://tenor.com/bxcyv.gif"  // 7 crying runaway
+    "https://tenor.com/en-GB/view/psyduck-pok%C3%A9mon-laptop-on-fire-duck-gif-11352596389714363119.gif",             // 5 devastated
+    "https://tenor.com/en-GB/view/pokemon-psyduck-crying-in-pain-gif-4481151.gif",               // 6 very devastated
+    "https://tenor.com/en-GB/view/pysiduck-gif-20267077.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
