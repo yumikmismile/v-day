@@ -1,21 +1,21 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5sbW42bnNmbzVsd3B5NWM4NGJveGczNXY3YTFlcXJiaGFrNDhjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fJfHptKXTnLM3VVSUS/giphy.gif",    // 0 normal
+    "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd1ZmVzejc5Ym5xY3QyaGNwcWJoYmVrdWIxb3E2MmFiMmxheTV6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KhADkQ40Z6cfieGKxM/giphy.gif",  // 1 confused
+    "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZlbWtjdjJpNHFnN3RjMGE2NTZmbzU0cjY4Nm13ODg3ODUycjQ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/asbP3eIpTXlxS/giphy.gif",             // 2 pleading
+    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG04d3F4MXZ0NjU3Z3IzY3hzZWttaG9tdHoxZXlqc2xvNGRudjE2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQ0GvkpZwYcgM/giphy.gif",             // 3 sad
+    "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW54ZDMyenA5NDlzdzZ1aHM3eXUwOXVqdXA4anhvdmY0NnZpN3pwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5JIak2EFfemQqQaJWK/giphy.gif",       // 4 sadder
+    "https://tenor.com/nGNaTVZwd1T.gif",             // 5 devastated
+    "https://tenor.com/sXUN.gif",               // 6 very devastated
+    "https://tenor.com/bxcyv.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
     "No",
     "Are you positive? 🤔",
-    "Pookie please... 🥺",
+    "I don't believe it... 🥺",
     "If you say no, I will be really sad...",
     "I will be very sad... 😢",
-    "Please??? 💔",
+    "Come On.... 💔",
     "Don't do this to me...",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
